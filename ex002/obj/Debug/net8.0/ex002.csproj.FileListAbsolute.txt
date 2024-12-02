@@ -1,0 +1,15 @@
+C:\~Алтана~\popo\Examples\ex002\bin\Debug\net8.0\ex002.exe
+C:\~Алтана~\popo\Examples\ex002\bin\Debug\net8.0\ex002.deps.json
+C:\~Алтана~\popo\Examples\ex002\bin\Debug\net8.0\ex002.runtimeconfig.json
+C:\~Алтана~\popo\Examples\ex002\bin\Debug\net8.0\ex002.dll
+C:\~Алтана~\popo\Examples\ex002\bin\Debug\net8.0\ex002.pdb
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.AssemblyInfoInputs.cache
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.AssemblyInfo.cs
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.csproj.CoreCompileInputs.cache
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.sourcelink.json
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.dll
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\refint\ex002.dll
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.pdb
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ex002.genruntimeconfig.cache
+C:\~Алтана~\popo\Examples\ex002\obj\Debug\net8.0\ref\ex002.dll
